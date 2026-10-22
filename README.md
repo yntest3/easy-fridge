@@ -1,2 +1,19 @@
-# easy-fridge
-冷蔵庫の中から食材を選ぶだけで、かんたん度つきで初心者でも作れる今日の一品が見つかるアプリ
+# Easy Fridge
+
+
+
+- ▶ **Try it:** https://yntest3.github.io/easy-fridge/
+
+## About
+
+See the app and [IDEA.md](IDEA.md) (the idea log, in Japanese).
+
+## How it was made
+
+Built by shaping the idea together with AI (Claude) and publishing the AI-written code.
+The full conversation is in [IDEA.md](IDEA.md) (Japanese).
+
+## Files
+
+- `index.html` — the app (a single self-contained file)
+- `IDEA.md` — the idea log
